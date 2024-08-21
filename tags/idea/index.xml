@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea on Zexing Jiang&#39;s Blog</title>
+    <link>https://example.org/tags/idea/</link>
+    <description>Recent content in Idea on Zexing Jiang&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2024 07:29:14 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why Must Debugging Be Done by Yourself</title>
+      <link>https://example.org/posts/why-must-debugging-be-done-by-yourself/</link>
+      <pubDate>Thu, 18 Jan 2024 06:32:13 +0000</pubDate>
+      <guid>https://example.org/posts/why-must-debugging-be-done-by-yourself/</guid>
+      <description>If someone points out where your program is wrong, you won&amp;rsquo;t gain any insight, and you may repeat the same mistake next time. This is because the errors you discover through extensive debugging leave a deeper impression. Debugging ability is a key measure of a coder&amp;rsquo;s productivity and can enhance your capacity to write high-quality, bug-free code.&#xA;This leads me to think about the steps of debugging—not just to fix the issue, but also to push myself to delve deeper.</description>
+    </item>
+  </channel>
+</rss>
